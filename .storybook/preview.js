@@ -1,5 +1,5 @@
 //import '../../..//styles/theme.less';
-import '!style-loader!css-loader!less-loader!../../Agent/Client/src/styles/theme.less';
+import '!style-loader!css-loader!less-loader!../css/theme.less';
 //import '!style-loader!css-loader!sass-loader!../../Agent/Client/src/styles/layout.scss';
 
 //import './styles/layout.scss';
